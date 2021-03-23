@@ -1,4 +1,4 @@
-#Sasso_Carta_Forbice
+#SassoCartaForbice
 
 ## Table of Contents
 1. [General Info](#general-info)
